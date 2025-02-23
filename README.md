@@ -22,6 +22,6 @@ streamlit run leaderboard.py
 
 # 참고 자료
 
-1. https://github.com/nlpai-lab를 참고했습니다.
-2. https://arca.live/b/alpaca/119279222를 참고했습니다.
-3. https://github.com/su-park/mteb_ko_leaderboard를 참고했습니다.
+1. https://github.com/nlpai-lab 를 참고했습니다.
+2. https://arca.live/b/alpaca/119279222 를 참고했습니다.
+3. https://github.com/su-park/mteb_ko_leaderboard 를 참고했습니다.
