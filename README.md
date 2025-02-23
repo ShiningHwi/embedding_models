@@ -5,11 +5,9 @@
 # 실행 방법
 
 1. 벤치마크 실행
-cd project
 python main.py
 
 2. 평가 실행
-cd project
 streamlit run leaderboard.py
 
 # 구조 및 환경 설명
