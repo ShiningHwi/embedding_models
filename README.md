@@ -1,8 +1,8 @@
 # 한국어 설치형 임베딩 모델에 대한 벤치마크 데이터셋 테스트 결과
 
-고려대학교 KURE-v1 임베딩 모델 성능이 가장 좋았습니다 (2025.02.24).
-
-![스크린샷 2025-02-24 071835](https://github.com/user-attachments/assets/8337fd1a-ad1d-48d0-85b3-3e36b28b3865)
+![스크린샷 2025-02-24 081831](https://github.com/user-attachments/assets/de5669dc-d1b6-4e3c-8309-7f1a674361f5)
+![스크린샷 2025-02-24 081853](https://github.com/user-attachments/assets/9856b998-c3c4-4f2a-a238-3d01e74b9252)
+![스크린샷 2025-02-24 081903](https://github.com/user-attachments/assets/e26cad00-cc3f-4348-8f8c-8c6a38dc5970)
 
 # 실행 방법
 
