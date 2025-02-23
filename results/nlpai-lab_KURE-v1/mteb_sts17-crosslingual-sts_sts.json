@@ -1,0 +1,11 @@
+{
+    "cosine_pearson": 0.8164950316426645,
+    "cosine_spearman": 0.8194318127666984,
+    "euclidean_pearson": 0.8132608499823866,
+    "euclidean_spearman": 0.8194314186558337,
+    "manhattan_pearson": 0.8124570564285125,
+    "manhattan_spearman": 0.8186902378356042,
+    "dot_pearson": 0.8164950373994391,
+    "dot_spearman": 0.8194314680927581,
+    "AVG": 0.8169616141004872
+}
